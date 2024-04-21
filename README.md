@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, my name is Samuel, welcome! ✨
 
-<!--
-**vaedde/vaedde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**😎 Description:**
 
-Here are some ideas to get you started:
+I`ll post somo projects here... 👀😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💭 About:**
+
+Developer for almost 2 years, with solid experience in small to large projects.
+I greatly value collective and collaborative work to achieve goals, offering good harmony in the team.
+I look for challenging opportunities that allow me to improve and apply my skills in the development area.
+
+**🔬 Technologies:**
+
+- Java
+- Go
+- Object Pascal
+- Node.js
